@@ -5,6 +5,6 @@
 - 📫 How to reach me: linkedin.com/in/ricardo-s-fogaça-60a22746
 
 <!---
-RicFogk/RicFogk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+RickFogk/RickFogk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
